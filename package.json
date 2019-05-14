@@ -1,6 +1,6 @@
 {
   "name": "txt2url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "读取本地txt 转换为 url",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bin": {
     "txt2url": "./index.js"
   },
-  "repository": {}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangguifnag/txt2url.git"
+  }
 }
